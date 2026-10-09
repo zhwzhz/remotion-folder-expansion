@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Remotion build and cache
+out/
+.remotion/
+.cache/
+
+# System files
+.DS_Store
+Thumbs.db
